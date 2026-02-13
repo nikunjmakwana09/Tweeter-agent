@@ -25,9 +25,7 @@ It uses the Twitter API to handle all actions securely and efficiently.
 📂 Project Structure
 
 Tweeter-agent/
-├── main.py
 ├── twitter_agent.py
-├── requirements.txt
 ├── README.md
 └── .env (not included in repo)
 
